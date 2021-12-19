@@ -1,0 +1,15 @@
+**/migrations
+*.DS_Store
+**/__pycache__
+**/.DS_Store
+db.sqlite3
+youtube/.env
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.dir
+*.bak
