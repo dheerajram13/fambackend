@@ -31,7 +31,7 @@ class VideoListAPIView(generics.ListAPIView):
             search_query = self.request.GET.get('search')
             # Retrieving the videos with the search query for the video title, description. 
             videos_list = Video.objects.filter(Q(title__icontains=search_query) | Q(description__icontains=search_query))
-            logger.info("%s: Successfully fetched videos with sort_by %s.",
+            logger.info("%s: Successfully fetched videos with search %s.",
                     self.__class__.__name__,
                     search_query)  
         else:

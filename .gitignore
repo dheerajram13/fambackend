@@ -13,3 +13,5 @@ env.bak/
 venv.bak/
 *.dir
 *.bak
+*.dat
+/static/
