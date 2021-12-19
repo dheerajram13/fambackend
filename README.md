@@ -76,10 +76,10 @@ The goal of this project is to make an API to fetch latest videos sorted reverse
 4. To view the videos data login to admin page. 
 
 ## Screenshots
-![Default Home View](__screenshots/3.PNG?raw=true "Docker ")
-![Default Home View](__screenshots/1.PNG?raw=true "Celery Worker in a seperate terminal without docker")
-![Default Home View](__screenshots/2.PNG?raw=true "Celery beat in a seperate terminal without docker")
-![Default Home View](__screenshots/4.PNG?raw=true "Search query")
-![Default Home View](__screenshots/5.PNG?raw=true "Videos Orderby")
-![Default Home View](__screenshots/6.PNG?raw=true "Page number ")
-![Default Home View](__screenshots/7.PNG?raw=true "Admin View")
+![Default Home View](screenshots/3.PNG?raw=true "Docker ")
+![Default Home View](screenshots/1.PNG?raw=true "Celery Worker in a seperate terminal without docker")
+![Default Home View](screenshots/2.PNG?raw=true "Celery beat in a seperate terminal without docker")
+![Default Home View](screenshots/4.PNG?raw=true "Search query")
+![Default Home View](screenshots/5.PNG?raw=true "Videos Orderby")
+![Default Home View](screenshots/6.PNG?raw=true "Page number ")
+![Default Home View](screenshots/7.PNG?raw=true "Admin View")
